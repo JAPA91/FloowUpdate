@@ -23,8 +23,8 @@ public class Application {
 
     public static final String DEFAULT_MONGO_HOST = "localhost";
     public static final int DEFAULT_MONGO_PORT = 27017;
-    public static final String DEFAULT_MONGO_DATABASE = "floow";
-    public static final String DEFAULT_MONGO_COLLECTION = "words";
+    public static final String DEFAULT_MONGO_DATABASE = "mydb";
+    public static final String DEFAULT_MONGO_COLLECTION = "txttodb";
 
     public static final int DEFAULT_IMPORT_SKIP = 0;
     public static final int DEFAULT_IMPORT_LIMIT = 1000000;//TEMP 0;
