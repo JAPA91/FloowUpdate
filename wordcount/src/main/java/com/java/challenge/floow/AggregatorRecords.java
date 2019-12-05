@@ -47,7 +47,6 @@ public class AggregatorRecords {
 		String reducer = "function(key, values) { return Array.sum(values) }";
 		collection.mapReduce(mapper, reducer).collectionName(outputCollectionName)
 				.filter(new Document("source", fileName))
-				// GS???.verbose(true)
 				.toCollection();
 	}
 
