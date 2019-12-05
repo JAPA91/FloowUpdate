@@ -231,7 +231,23 @@ public class Application {
             Option.builder(PARAM_NOIMPORT) // noImport
                 .desc(String.format("source is already imported, aggregate only (used with -%s or -%s)", PARAM_AGGREGATE, PARAM_MAPREDUCE))
                 .build()
-        );
+        )
+        .addOption(
+                Option.builder(PARAM_AGGREGATE) // aggregate
+                    .desc("after importing aggregate data to output collection using aggregation framework")
+                    .hasArg()
+                    .optionalArg(true)
+                    .argName("output_collection")
+                    .build()
+            )
+            .addOption(
+                Option.builder(PARAM_MAPREDUCE) // mapReduce
+                    .desc("after importing aggregate data to output collection using mapReduce")
+                    .hasArg()
+                    .optionalArg(true)
+                    .argName("output_collection")
+                    .build()
+            );
 		
         return options;
     }
