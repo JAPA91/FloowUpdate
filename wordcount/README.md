@@ -13,4 +13,8 @@ Keep the (dump.txt)files in resource path and execute the application.
 Hava to do further development process for Aggregate Framework and Map Reduce for word counts and to get the most and least used words in large text file.
 Executing the Jar: Example: java -jar D:\Priyanka\txttoMongodb\bin\wordcount.jar Priyanka\txttoMongodb\src\main\resources\dump.txt -source Priyanka\txttoMongodb\src\main\resources\dump.txt
 
-show dbs use mydb show collections txtomongodb db.txtmongodb.drop()
+show dbs
+use mydb
+show collections
+ txtomongodb 
+ db.txtmongodb.drop()
