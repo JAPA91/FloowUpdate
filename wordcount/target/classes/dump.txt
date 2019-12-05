@@ -1,0 +1,54 @@
+{"feed": {"doc": [
+    {
+        "links": {"sublink": [
+            {
+                "anchor": "Offices",
+                "linktype": "nav",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Offices"
+            },
+            {
+                "anchor": "History",
+                "linktype": "nav",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#History"
+            },
+            {
+                "anchor": "Membership",
+                "linktype": "nav",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Membership"
+            },
+            {
+                "anchor": "Notable cases",
+                "linktype": "nav",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Notable_cases"
+            },
+            {
+                "anchor": "Practice areas",
+                "linktype": "nav",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Practice_areas"
+            },
+            {
+                "anchor": "Awards & rankings",
+                "linktype": "nav",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Awards_&_rankings"
+            },
+            {
+                "anchor": "See also",
+                "linktype": "nav",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#See_also"
+            },
+            {
+                "anchor": "References",
+                "linktype": "nav",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#References"
+            },
+            {
+                "anchor": "External links",
+                "linktype": "nav",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#External_links"
+            }
+        ]},
+        "abstract": "}}",
+        "title": "Wikipedia: Kateera & Kagumire (Uganda)",
+        "url": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)"
+    }
+    ]}
