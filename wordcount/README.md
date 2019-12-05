@@ -1,5 +1,7 @@
 WordCount
+
 Project
+
 This project aims to analyse a file with a large body of text and to count number of occurance of the words. This Application counts the words in a file and saves the counts to a MongoDB server.
 
 Project
